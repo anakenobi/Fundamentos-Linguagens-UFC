@@ -61,9 +61,4 @@ Fundamentos-Linguagens-UFC/
 
 
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
----
-
-> *"A linguagem afeta a forma como pensamos sobre problemas de programação."*  
-> — **Robert W. Sebesta**
