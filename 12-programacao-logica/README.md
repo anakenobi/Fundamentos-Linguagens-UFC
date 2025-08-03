@@ -1,9 +1,5 @@
 # Problema Lógico - Árvore Genealógica
 
-Este é um exemplo simples de programação lógica inspirada em Prolog para modelar relacionamentos familiares.
-
-## Descrição do Problema
-
 O sistema modela uma família através de fatos básicos (pai/mãe) e deriva outros relacionamentos usando regras lógicas.
 
 ## Estrutura da Família
@@ -102,4 +98,5 @@ Com base nos fatos e regras apresentados, determine:
    - `?- avo_fem(X, _).` retorna `X = lucia`
 
 </details>
+
 
